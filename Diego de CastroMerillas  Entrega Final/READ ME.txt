@@ -1,0 +1,17 @@
+Buenas tardes.
+He incluido la carpeta de datos_figuras donde se encuentran un fichero de:
+													-HTML exportado por el programa
+													-Fichero CSV
+													-Fichero Binario
+
+Luego he incluido un video ejecutandolo una vez incluyendo un poco los errores que puede 
+si se incluye algun dato fuera del rango. Hay un menu que le falta la s que al ejecutarlo
+verá que está corregido.
+
+También incluye el PDF donde primero explico cada metodo un poco y a partir 
+de la página 15 incluyo fotos de como se ejecuta el programa, con una ejecución parecida a la del video.
+
+Y por ultimo se encuentra la carpeta del programa.
+
+Muchas gracias
+Diego de Castro
